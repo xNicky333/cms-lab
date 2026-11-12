@@ -33,4 +33,14 @@ Wybieram WordPressa zamiast platform takich jak Wix czy Shopify, ponieważ wedł
 
 5. Użycie AI
 Narzędzie: Gemini
-Do czego zostało użyte: użyłem gemini do pomocy w rozwiązaniu problemu z localhost w codespace głównie do połączenia kodu żeby zgadzały się odstępy między linijkami, oraz w opisaniu person i ogólnym zamyśle firmy
+Do czego zostało użyte:
+
+Główny zamysł firmy
+
+Opisanie person
+
+Generowanie grafik: Wygenerowanie głównego logo sklepu internetowego SkyTech FPV dopasowanego do tematyki dronów FPV.
+
+Konfiguracja środowiska: Poprawienie kodu docker-compose.yml do poprawnej adresacji portów.
+
+Generowanie treści: Przygotowaniu szablonu Polityki Prywatności dostosowanego do wymogów RODO oraz wygenerowanie przykładowych opinii klientów.
