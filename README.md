@@ -5,18 +5,18 @@ Grupa docelowa: Pasjonaci FPV, początkujący i ludzie zainteresowani dronami w 
 
 2. Persony
 Persona 1: 
-Tomek „Freestylowiec” (Doświadczony pilot FPV)
+Tomek Doświadczony pilot FPV
 Cel: Złożenie wytrzymałego drona 5-calowego do lotów akrobacyjnych (freestyle) i szybki zakup zapasowych komponentów, takich jak wytrzymałe ramy, silniki i śmigła.
 Problem: Frustruje go brak dostępności specyficznych części w jednym sklepie oraz brak dokładnych specyfikacji technicznych elektroniki, przez co traci czas na sprawdzanie kompatybilności.
 Urządzenie: Komputer stacjonarny z dwoma monitorami, wykorzystywany do precyzyjnego dobierania części i analizy schematów lutowania.
-Oczekiwana akcja (CTA): Przycisk "Skonfiguruj własny zestaw" oraz zaawansowane filtry wyszukiwania po kompatybilności podzespołów.
+Oczekiwana akcja: Łatwy dostęp do oferty sklepu
 
 Persona 2: 
-Kamil „Świeżak” (Początkujący w świecie FPV)
-Cel: Zakup bezpiecznego, gotowego do lotu zestawu (RTF) z małym dronem typu Cinewhoop, cyfrowymi goglami i aparaturą, aby rozpocząć naukę latania od razu po wyjęciu z pudełka.
-Problem: Jest całkowicie przytłoczony technicznym żargonem (bindowanie, protokoły RX/TX, PIDy) i boi się, że kupi sprzęt, którego nie będzie potrafił ze sobą połączyć bez pomocy serwisu.
-Urządzenie: Smartfon używany w wolnej chwili do przeglądania ofert i czytania poradników dla początkujących.
-Oczekiwana akcja (CTA): Przycisk "Sprawdź gotowe zestawy na start" oraz formularz "Zapytaj eksperta o dobór sprzętu".
+Kamil (Początkujący)
+Cel: Zakup bezpiecznego, gotowego zestawu zaproponowanego przez sklep.
+Problem: Jest całkowicie przytłoczony technicznym żargonem i boi się, że kupi sprzęt, którego nie będzie potrafił ze sobą połączyć bez pomocy serwisu.
+Urządzenie: Smartfon do przeglądania ofert i czytania poradników dla początkujących.
+Oczekiwana akcja: formularz kontaktowy do zadawania pytań.
 
 3. Mapa strony:
 Strona główna
@@ -39,8 +39,16 @@ Główny zamysł firmy
 
 Opisanie person
 
-Generowanie grafik: Wygenerowanie głównego logo sklepu internetowego SkyTech FPV dopasowanego do tematyki dronów FPV.
+Pomoc przy redagowaniu readme
+
+Generowanie grafik: Wygenerowanie głównego logo SkyTech FPV.
 
 Konfiguracja środowiska: Poprawienie kodu docker-compose.yml do poprawnej adresacji portów.
 
 Generowanie treści: Przygotowaniu szablonu Polityki Prywatności dostosowanego do wymogów RODO oraz wygenerowanie przykładowych opinii klientów.
+
+co poprawiłem?
+Skróciłem opinię 
+Poprawiłem opisy person
+Naniosłem poprawki w zamyśle fimry
+Napisałem politykę prywatności zgodnie z szablonem zaproponowanym przez Gemini
