@@ -1,0 +1,53 @@
+#choneypot4cf7-admin-page * {
+	box-sizing: border-box;
+}
+
+#choneypot4cf7-admin-page .choneypot4cf7-admin__title {
+	min-height: 64px;
+	line-height: 64px;
+	padding-left: 80px;
+	background-image: url('../images/icon.png');
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 64px 64px;
+}
+
+#choneypot4cf7-admin-page .choneypot4cf7-admin__title span {
+	font-size: 12px;
+	color: #999;
+	font-style: italic;
+}
+
+#choneypot4cf7-admin-page .choneypot4cf7-admin__primary {
+	width: 100%;
+}
+
+
+#choneypot4cf7-admin-page .choneypot4cf7-admin__box {
+	background: white;
+	padding: 20px;
+	border: 1px solid #ccc;
+	margin-top: 1.5em;
+}
+
+#choneypot4cf7-admin-page .choneypot4cf7-admin__box h3 {
+	text-transform: uppercase;
+	margin: 0;
+}
+
+#choneypot4cf7-admin-page .choneypot4cf7-admin__introduction {
+	font-size: 18px;
+}
+
+#choneypot4cf7-admin-page .form-table th, #choneypot4cf7-admin-page .form-table td {
+	padding: 20px 10px;
+}
+
+#choneypot4cf7-admin-page .form-table th {
+	width: 300px;
+}
+
+#choneypot4cf7-admin-page .form-table .description {
+	border-bottom: 1px solid #ddd;
+	padding-top: 0;
+}
