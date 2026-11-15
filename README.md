@@ -32,7 +32,7 @@ Polityka prywatności
 Wybieram WordPressa zamiast platform takich jak Wix czy Shopify, ponieważ według statystyk W3Techs jest to najpopularniejszy CMS, co zapewnia mi dostęp do sprawdzonych wtyczek e-commerce niezbędnych do prowadzenia sklepu z dronami. W przeciwieństwie do zamkniętych rozwiązań SaaS, WordPress daje mi pełną kontrolę nad projektem i pozwala uniknąć wysokich opłat abonamentowych za sprzedaż asortymentu. Z kolei w porównaniu do Drupala, który jest dość skomplikowany technicznie, WordPress posiada intuicyjny panel, dzięki któremu mogę sprawnie i samodzielnie dodawać do oferty nowe części FPV oraz gotowe zestawy.
 
 5. Jak formularz spełnia kryteria wcag2.2
-3.3.8 Accessible Authentication: Formularz nie wykorzystuje testów poznawczych, takich jak przepisywanie zniekształconego tekstu z obrazka czy rozwiązywanie trudnych łamigłówek CAPTCHA. Wysyłanie wiadomości opiera się na standardowych polach tekstowych, a uwierzytelnienie lub zabezpieczenie przed spamem może działać w tle, co nie blokuje użytkowników z niepełnosprawnościami poznawczymi.
+3.3.8 Accessible Authentication: Formularz nie wykorzystuje testów poznawczych, takich jak przepisywanie zniekształconego tekstu z obrazka czy rozwiązywanie trudnych łamigłówek CAPTCHA. Wysyłanie wiadomości opiera się na standardowych polach tekstowych, a uwierzytelnienie lub zabezpieczenie przed spamem działa w tle dzięki wtyczce honeypot for contact form 7
 
 2.5.8 Target Size: Wszystkie elementy formularza mają rozmiar przekraczający wymagane minimum 24x24 piksele. Ułatwia to wygodne kliknięcie palcem na urządzeniach mobilnych lub myszką.
 
