@@ -1,0 +1,23 @@
+/*
+Theme Name: MF Child
+Template: twentytwentyone
+Description: Motyw potomny do MP2 (CMS lab, CDV)
+Author: Nikodem Bucki
+Version: 1.0.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+Text Domain: mf-child
+*/
+
+:root {
+	--mf-accent: #1e3a5f;
+	--mf-heading-font: system-ui, -apple-system, sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: var(--mf-heading-font);
+}
+
+a {
+	color: var(--mf-accent);
+}
