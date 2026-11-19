@@ -52,8 +52,18 @@ Konfiguracja środowiska: Poprawienie kodu docker-compose.yml do poprawnej adres
 
 Generowanie treści: Przygotowaniu szablonu Polityki Prywatności dostosowanego do wymogów RODO oraz wygenerowanie przykładowych opinii klientów.
 
+wypisanie do readme hierarchi szablonów
+
 co poprawiłem?
 Skróciłem opinię 
 Poprawiłem opisy person
 Naniosłem poprawki w zamyśle fimry
 Napisałem politykę prywatności zgodnie z szablonem zaproponowanym przez Gemini
+
+7. G2 Szablony i hierarchia.
+
+Strona główna / lista wpisów (/): templates/index.html
+Pojedynczy wpis (np. /informacje-dla-poczatkujacych/): templates/single.html
+Pojedyncza strona (np. /kontakt/, /polityka-prywatnosci/): templates/page.html
+Archiwum (np. /category/...): templates/archive.html
+Błąd 404 (np. /nieistniejaca-strona): templates/404.html

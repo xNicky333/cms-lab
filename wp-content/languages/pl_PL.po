@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 7.1.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-03 12:59:06+0000\n"
+"PO-Revision-Date: 2026-11-18 05:54:42+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1004,10 +1004,6 @@ msgstr "Ustawienia regionalne witryny w formacie z myślnikiem (np. en-US)."
 msgid "Site Charset"
 msgstr "Zestaw znaków witryny"
 
-#: wp-includes/abilities.php:69 wp-admin/options-general.php:265
-msgid "Administration Email Address"
-msgstr "Administracyjny adres e-mail"
-
 #: wp-includes/abilities.php:65
 msgid "The URL where WordPress core files are served. May differ from the public site URL."
 msgstr "Adres URL, z którego serwowane są pliki kodu samego WordPressa. Może różnić się od publicznego adresu URL witryny."
@@ -1027,6 +1023,10 @@ msgstr "Nieprawidłowe dane wejściowe."
 #: wp-includes/abilities-api/class-wp-ability.php:348
 msgid "The ability meta should provide a valid `public` boolean."
 msgstr "Meta zdolności powinna zawierać prawidłową wartość logiczną `public`."
+
+#: wp-includes/abilities.php:69 wp-admin/options-general.php:265
+msgid "Administration Email Address"
+msgstr "Administracyjny adres email"
 
 #. translators: 1: 'module_dependencies', 2: Script handle, 3: 'in_footer', 4:
 #. 'strategy', 5: 'defer'.
@@ -23332,10 +23332,6 @@ msgstr "Ogólne"
 msgid "Please try again."
 msgstr "Spróbuj jeszcze raz."
 
-#: wp-signup.php:297
-msgid "Email&nbsp;Address"
-msgstr "Adres&nbsp;e-mail"
-
 #. translators: %s: Pingback excerpt text.
 #: wp-includes/pluggable.php:2106
 msgid "Pingback excerpt: %s"
@@ -23362,6 +23358,10 @@ msgstr "<strong>Błąd:</strong> proszę wpisać swój adres email."
 #: wp-includes/class-wp-customize-control.php:652
 msgid "Please enter a page title"
 msgstr "Wpisz tytuł strony"
+
+#: wp-signup.php:297
+msgid "Email&nbsp;Address"
+msgstr "Adres&nbsp;email"
 
 #: wp-includes/class-wp-theme.php:1080
 msgid "Blue"

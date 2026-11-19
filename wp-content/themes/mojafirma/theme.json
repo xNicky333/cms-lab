@@ -1,0 +1,66 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "base",
+          "color": "#ffffff",
+          "name": "Tło"
+        },
+        {
+          "slug": "contrast",
+          "color": "#1a1a1a",
+          "name": "Tekst"
+        },
+        {
+          "slug": "primary",
+          "color": "#702082",
+          "name": "Kolor marki"
+        },
+        {
+          "slug": "accent",
+          "color": "#007B8C",
+          "name": "Akcent"
+        }
+      ]
+    },
+    "typography": {
+      "fontSizes": [
+        {
+          "slug": "medium",
+          "size": "1.125rem",
+          "name": "Średni"
+        },
+        {
+          "slug": "x-large",
+          "size": "clamp(2rem, 1.5rem + 2.5vw, 3.25rem)",
+          "name": "Tytuł"
+        }
+      ]
+    },
+    "spacing": {
+      "units": ["px", "rem", "%", "vw"]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "var(--wp--preset--color--base)",
+      "text": "var(--wp--preset--color--contrast)"
+    },
+    "elements": {
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--primary)"
+        }
+      },
+      "button": {
+        "color": {
+          "background": "var(--wp--preset--color--primary)",
+          "text": "#ffffff"
+        }
+      }
+    }
+  }
+}

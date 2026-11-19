@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 7.1.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-22 14:44:54+0000\n"
+"PO-Revision-Date: 2026-11-18 05:55:23+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -204,7 +204,7 @@ msgstr "Ulepszona obsługa mediów"
 
 #: wp-admin/about.php:219
 msgid "Notes now support rich text and @mentions. Add bold, italic, code, and links so feedback reads clearly. Type &#8220;@&#8221; to pull up a list of collaborators to tag the right person directly, with built-in email notifications. Leave a note on a specific text selection instead of an entire block. Start more than one conversation on the same block. Collapse long notes to keep the margin tidy."
-msgstr "Notatki obsługują teraz tekst sformatowany i wzmianki (@mentions). Dodaj pogrubienie, kursywę, kod i linki, aby uwagi były czytelne. Wpisz &#8220;@&#8221;, aby wyświetlić listę współpracowników i oznaczyć odpowiednią osobę bezpośrednio, z wbudowanymi powiadomieniami e-mail. Zostaw notatkę przy konkretnym zaznaczeniu tekstu zamiast całego bloku. Rozpocznij więcej niż jedną rozmowę na tym samym bloku. Zwiń długie notatki, aby zachować porządek na marginesie."
+msgstr "Notatki obsługują teraz tekst sformatowany i wzmianki (@mentions). Dodaj pogrubienie, kursywę, kod czy odnośniki, aby uwagi były czytelne. Wpisz &#8220;@&#8221;, aby wyświetlić listę współpracowników i oznaczyć odpowiednią osobę bezpośrednio, z wbudowanymi powiadomieniami email. Zostaw notatkę przy konkretnym zaznaczeniu tekstu zamiast całego bloku. Rozpocznij więcej niż jedną rozmowę na tym samym bloku. Zwiń długie notatki, aby zachować porządek na marginesie."
 
 #: wp-admin/about.php:218
 msgid "More ways to leave feedback."
