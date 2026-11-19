@@ -36,7 +36,22 @@ Wybieram WordPressa zamiast platform takich jak Wix czy Shopify, ponieważ wedł
 
 2.5.8 Target Size: Wszystkie elementy formularza mają rozmiar przekraczający wymagane minimum 24x24 piksele. Ułatwia to wygodne kliknięcie palcem na urządzeniach mobilnych lub myszką.
 
-6. Użycie AI
+6. Wykaz źródeł i licencji materiałów
+
+Platforma i oprogramowanie: WordPress, licencja: GPLv2+
+
+Typografia (Fonty): Rodzina czcionek Roboto, źródło: Google Fonts. Licencja: OFL
+
+Grafiki (Logo): Znak graficzny marki SkyTech FPV został wygenerowany za pomocą sztucznej inteligencji (Gemini).
+
+Formularz: wtyczka contact form 7 + Honeypot fot contact form 7
+
+Motyw: Twenty Twenty-Five
+
+Środowisko Github Codespaces
+
+
+7. Użycie AI
 Narzędzie: Gemini
 Do czego zostało użyte:
 
