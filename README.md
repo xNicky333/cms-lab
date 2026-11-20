@@ -67,7 +67,15 @@ Konfiguracja środowiska: Poprawienie kodu docker-compose.yml do poprawnej adres
 
 Generowanie treści: Przygotowaniu szablonu Polityki Prywatności dostosowanego do wymogów RODO oraz wygenerowanie przykładowych opinii klientów.
 
+
+
+7.2. Użycie AI MP2
 wypisanie do readme hierarchi szablonów
+Dobór stylów bloków i kontrastu tak żeby spełniały normy wcag 2.2 
+pomoc w kodowaniu:
+Uzupełnienie kodu o osłony `defined( 'ABSPATH' )`, funkcje escapujące (`esc_html()`, `esc_url()`, `esc_attr__()`) oraz rejestrację domeny tekstowej `mf-child` z prefiksem funkcji `mf_`.
+naprawa błędów składniowych w przykładach z instrukcji laboratoryjnej, m.in. brakującej konkatenacji zmiennych w filtrze `the_content`
+
 
 co poprawiłem?
 Skróciłem opinię 
